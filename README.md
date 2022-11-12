@@ -1,6 +1,6 @@
 # python
-- 1일차\ 
-      print()\
+- 1일차\
+      -print()\
       input()\
       type()\
       isinstance()\
