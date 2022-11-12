@@ -1,5 +1,5 @@
 # python
-1일차\ 
+1일차- 
       print()\
       input()\
       type()\
