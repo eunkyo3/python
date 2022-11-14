@@ -8,16 +8,16 @@
       - ** 지수연산자 (제곱)
 
 - 2일차\
-      - String()
-      - count()
-      - 'a' in 'abc'
-      - list slicing
-      - index()
-      - s[start, stop, step]
-      - reversed
-      - replace()
-      - upper()
-      - lower()
-      - f-string {}
-      - f'{}'  <-- x, X, o, b
-      - if
+      - String()\
+      - count()\
+      - 'a' in 'abc'\
+      - list slicing\
+      - index()\
+      - s[start, stop, step]\
+      - reversed\
+      - replace()\
+      - upper()\
+      - lower()\
+      - f-string {}\
+      - f'{}'  <-- x, X, o, b\
+      - if\
