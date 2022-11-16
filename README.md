@@ -20,4 +20,12 @@
       - lower()\
       - f-string {}\
       - f'{}'  <-- x, X, o, b\
-      - if\
+      - if
+
+- 3일차\
+      - for\
+      - continue, break\
+      - while\
+      - pass\
+      - def\
+      - return\
