@@ -28,4 +28,14 @@
       - while\
       - pass\
       - def\
-      - return\
+      - return
+
+- 4일차\
+      - list[]\
+      - len\
+      - [-1] # 마이너스 값은 뒤에서 부터\
+      - 배열 안에 이모지도 가능\
+      - in\
+      - sum\
+      - min\
+      - list + list
